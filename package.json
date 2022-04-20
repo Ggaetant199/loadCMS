@@ -1,0 +1,16 @@
+{
+  "name": "loadcms",
+  "version": "1.0.0",
+  "description": "cms avec nodejs",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "cms",
+    "nodejs"
+  ],
+  "author": "gomsu gaeant",
+  "license": "MIT"
+}
